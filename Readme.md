@@ -1,2 +1,2 @@
 #Hello, ...
-<span style="color: black"> Some green text </span>
+<span style="bg-color: black"> Some green text </span>
